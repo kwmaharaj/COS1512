@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499793939 source:c:\users\encoded\desktop\unisa\cos1512\assignments\code_ass_1\2\2\main.cpp
+	<iostream>
+	<cassert>
+	<stdlib.h>
+
